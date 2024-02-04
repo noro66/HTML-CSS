@@ -120,4 +120,8 @@ main {
   ul {
     margin: auto;
   }
+
+  .image img {
+    width: 250px;
+  }
 }
